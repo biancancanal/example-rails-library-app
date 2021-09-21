@@ -1,0 +1,26 @@
+Started GET "/cheese" for ::1 at 2021-09-20 16:58:26 -0700
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by CheeseController#index as HTML
+Completed 200 OK in 5ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 3390)
+
+
+Started GET "/cheese" for ::1 at 2021-09-20 17:13:27 -0700
+Processing by CheeseController#index as HTML
+Completed 200 OK in 1ms (Views: 0.5ms | Allocations: 88)
+
+
+Started GET "/cheese" for ::1 at 2021-09-20 17:13:29 -0700
+Processing by CheeseController#index as HTML
+Completed 200 OK in 0ms (Views: 0.2ms | Allocations: 88)
+
+
+Started GET "/cheese" for ::1 at 2021-09-20 17:13:32 -0700
+Processing by CheeseController#index as HTML
+Completed 200 OK in 0ms (Views: 0.2ms | Allocations: 85)
+
+
+Started GET "/cheese" for ::1 at 2021-09-20 17:14:45 -0700
+Processing by CheeseController#index as HTML
+Completed 200 OK in 0ms (Views: 0.2ms | Allocations: 85)
+
+
